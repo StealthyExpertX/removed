@@ -1,0 +1,20 @@
+{
+  "minecraft:bed:11": {
+    "Count": {
+      "tag": "TAG_BYTE",
+      "val": 1
+    },
+    "Damage": {
+      "tag": "TAG_SHORT",
+      "val": 11
+    },
+    "Name": {
+      "tag": "TAG_STRING",
+      "val": "minecraft:bed"
+    },
+    "Slot": {
+      "tag": "TAG_BYTE",
+      "val": 12
+    }
+  }
+}

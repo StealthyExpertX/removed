@@ -1,0 +1,20 @@
+{
+  "minecraft:bucket:2": {
+    "Count": {
+      "tag": "TAG_BYTE",
+      "val": 1
+    },
+    "Damage": {
+      "tag": "TAG_SHORT",
+      "val": 2
+    },
+    "Name": {
+      "tag": "TAG_STRING",
+      "val": "minecraft:bucket"
+    },
+    "Slot": {
+      "tag": "TAG_BYTE",
+      "val": 3
+    }
+  }
+}

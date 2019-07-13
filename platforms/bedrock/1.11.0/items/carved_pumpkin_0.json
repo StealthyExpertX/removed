@@ -1,0 +1,42 @@
+{
+  "minecraft:carved_pumpkin:0": {
+    "Block": {
+      "tag": "TAG_COMPOUND",
+      "val": {
+        "name": {
+          "tag": "TAG_STRING",
+          "val": "minecraft:carved_pumpkin"
+        },
+        "states": {
+          "tag": "TAG_COMPOUND",
+          "val": {
+            "direction": {
+              "tag": "TAG_INT",
+              "val": 0
+            }
+          }
+        },
+        "version": {
+          "tag": "TAG_INT",
+          "val": 17432626
+        }
+      }
+    },
+    "Count": {
+      "tag": "TAG_BYTE",
+      "val": 1
+    },
+    "Damage": {
+      "tag": "TAG_SHORT",
+      "val": 0
+    },
+    "Name": {
+      "tag": "TAG_STRING",
+      "val": "minecraft:carved_pumpkin"
+    },
+    "Slot": {
+      "tag": "TAG_BYTE",
+      "val": 13
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "minecraft:coal:1": {
+    "Count": {
+      "tag": "TAG_BYTE",
+      "val": 1
+    },
+    "Damage": {
+      "tag": "TAG_SHORT",
+      "val": 1
+    },
+    "Name": {
+      "tag": "TAG_STRING",
+      "val": "minecraft:coal"
+    },
+    "Slot": {
+      "tag": "TAG_BYTE",
+      "val": 20
+    }
+  }
+}

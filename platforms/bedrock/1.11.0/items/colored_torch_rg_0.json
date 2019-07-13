@@ -1,0 +1,46 @@
+{
+  "minecraft:colored_torch_rg:0": {
+    "Block": {
+      "tag": "TAG_COMPOUND",
+      "val": {
+        "name": {
+          "tag": "TAG_STRING",
+          "val": "minecraft:colored_torch_rg"
+        },
+        "states": {
+          "tag": "TAG_COMPOUND",
+          "val": {
+            "color_bit": {
+              "tag": "TAG_BYTE",
+              "val": 0
+            },
+            "torch_facing_direction": {
+              "tag": "TAG_STRING",
+              "val": "unknown"
+            }
+          }
+        },
+        "version": {
+          "tag": "TAG_INT",
+          "val": 17432626
+        }
+      }
+    },
+    "Count": {
+      "tag": "TAG_BYTE",
+      "val": 1
+    },
+    "Damage": {
+      "tag": "TAG_SHORT",
+      "val": 0
+    },
+    "Name": {
+      "tag": "TAG_STRING",
+      "val": "minecraft:colored_torch_rg"
+    },
+    "Slot": {
+      "tag": "TAG_BYTE",
+      "val": 3
+    }
+  }
+}
