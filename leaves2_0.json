@@ -1,0 +1,50 @@
+{
+  "minecraft:leaves2:0": {
+    "Block": {
+      "tag": "TAG_COMPOUND",
+      "val": {
+        "name": {
+          "tag": "TAG_STRING",
+          "val": "minecraft:leaves2"
+        },
+        "states": {
+          "tag": "TAG_COMPOUND",
+          "val": {
+            "new_leaf_type": {
+              "tag": "TAG_STRING",
+              "val": "dark_oak"
+            },
+            "persistent_bit": {
+              "tag": "TAG_BYTE",
+              "val": 0
+            },
+            "update_bit": {
+              "tag": "TAG_BYTE",
+              "val": 0
+            }
+          }
+        },
+        "version": {
+          "tag": "TAG_INT",
+          "val": 17432626
+        }
+      }
+    },
+    "Count": {
+      "tag": "TAG_BYTE",
+      "val": 1
+    },
+    "Damage": {
+      "tag": "TAG_SHORT",
+      "val": 0
+    },
+    "Name": {
+      "tag": "TAG_STRING",
+      "val": "minecraft:leaves2"
+    },
+    "Slot": {
+      "tag": "TAG_BYTE",
+      "val": 15
+    }
+  }
+}

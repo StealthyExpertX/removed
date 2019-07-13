@@ -1,0 +1,42 @@
+{
+  "minecraft:monster_egg:0": {
+    "Block": {
+      "tag": "TAG_COMPOUND",
+      "val": {
+        "name": {
+          "tag": "TAG_STRING",
+          "val": "minecraft:monster_egg"
+        },
+        "states": {
+          "tag": "TAG_COMPOUND",
+          "val": {
+            "monster_egg_stone_type": {
+              "tag": "TAG_STRING",
+              "val": "chiseled_stone_brick"
+            }
+          }
+        },
+        "version": {
+          "tag": "TAG_INT",
+          "val": 17432626
+        }
+      }
+    },
+    "Count": {
+      "tag": "TAG_BYTE",
+      "val": 1
+    },
+    "Damage": {
+      "tag": "TAG_SHORT",
+      "val": 0
+    },
+    "Name": {
+      "tag": "TAG_STRING",
+      "val": "minecraft:monster_egg"
+    },
+    "Slot": {
+      "tag": "TAG_BYTE",
+      "val": 1
+    }
+  }
+}

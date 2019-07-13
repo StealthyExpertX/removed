@@ -1,0 +1,20 @@
+{
+  "minecraft:lingering_potion:12": {
+    "Count": {
+      "tag": "TAG_BYTE",
+      "val": 1
+    },
+    "Damage": {
+      "tag": "TAG_SHORT",
+      "val": 12
+    },
+    "Name": {
+      "tag": "TAG_STRING",
+      "val": "minecraft:lingering_potion"
+    },
+    "Slot": {
+      "tag": "TAG_BYTE",
+      "val": 2
+    }
+  }
+}
