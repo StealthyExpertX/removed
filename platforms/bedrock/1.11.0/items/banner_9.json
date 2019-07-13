@@ -1,0 +1,20 @@
+{
+  "minecraft:banner:9": {
+    "Count": {
+      "tag": "TAG_BYTE",
+      "val": 1
+    },
+    "Damage": {
+      "tag": "TAG_SHORT",
+      "val": 9
+    },
+    "Name": {
+      "tag": "TAG_STRING",
+      "val": "minecraft:banner"
+    },
+    "Slot": {
+      "tag": "TAG_BYTE",
+      "val": 5
+    }
+  }
+}

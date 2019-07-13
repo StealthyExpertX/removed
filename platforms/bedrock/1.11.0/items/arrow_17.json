@@ -1,0 +1,20 @@
+{
+  "minecraft:arrow:17": {
+    "Count": {
+      "tag": "TAG_BYTE",
+      "val": 1
+    },
+    "Damage": {
+      "tag": "TAG_SHORT",
+      "val": 17
+    },
+    "Name": {
+      "tag": "TAG_STRING",
+      "val": "minecraft:arrow"
+    },
+    "Slot": {
+      "tag": "TAG_BYTE",
+      "val": 6
+    }
+  }
+}

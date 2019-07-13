@@ -1,0 +1,20 @@
+{
+  "minecraft:banner_pattern:2": {
+    "Count": {
+      "tag": "TAG_BYTE",
+      "val": 1
+    },
+    "Damage": {
+      "tag": "TAG_SHORT",
+      "val": 2
+    },
+    "Name": {
+      "tag": "TAG_STRING",
+      "val": "minecraft:banner_pattern"
+    },
+    "Slot": {
+      "tag": "TAG_BYTE",
+      "val": 15
+    }
+  }
+}
