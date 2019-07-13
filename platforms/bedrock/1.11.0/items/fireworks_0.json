@@ -1,0 +1,72 @@
+{
+  "minecraft:fireworks:0": {
+    "Count": {
+      "tag": "TAG_BYTE",
+      "val": 1
+    },
+    "Damage": {
+      "tag": "TAG_SHORT",
+      "val": 0
+    },
+    "Name": {
+      "tag": "TAG_STRING",
+      "val": "minecraft:fireworks"
+    },
+    "Slot": {
+      "tag": "TAG_BYTE",
+      "val": 26
+    },
+    "tag": {
+      "tag": "TAG_COMPOUND",
+      "val": {
+        "Fireworks": {
+          "tag": "TAG_COMPOUND",
+          "val": {
+            "Explosions": {
+              "tag": "TAG_LIST",
+              "listtag": "TAG_COMPOUND",
+              "val": [
+                {
+                  "FireworkColor": {
+                    "tag": "TAG_BYTE_ARRAY",
+                    "val": [
+                      1,
+                      0,
+                      0,
+                      0
+                    ]
+                  },
+                  "FireworkFade": {
+                    "tag": "TAG_BYTE_ARRAY",
+                    "val": [
+                      0,
+                      0,
+                      0,
+                      0
+                    ]
+                  },
+                  "FireworkFlicker": {
+                    "tag": "TAG_BYTE",
+                    "val": 0
+                  },
+                  "FireworkTrail": {
+                    "tag": "TAG_BYTE",
+                    "val": 0
+                  },
+                  "FireworkType": {
+                    "tag": "TAG_BYTE",
+                    "val": 0
+                  }
+                }
+              ]
+            },
+            "Flight": {
+              "tag": "TAG_BYTE",
+              "val": 1
+            }
+          }
+        }
+      }
+    }
+  }
+}

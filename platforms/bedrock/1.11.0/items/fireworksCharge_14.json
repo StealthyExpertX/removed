@@ -1,0 +1,64 @@
+{
+  "minecraft:fireworksCharge:14": {
+    "Count": {
+      "tag": "TAG_BYTE",
+      "val": 1
+    },
+    "Damage": {
+      "tag": "TAG_SHORT",
+      "val": 14
+    },
+    "Name": {
+      "tag": "TAG_STRING",
+      "val": "minecraft:fireworksCharge"
+    },
+    "Slot": {
+      "tag": "TAG_BYTE",
+      "val": 10
+    },
+    "tag": {
+      "tag": "TAG_COMPOUND",
+      "val": {
+        "FireworksItem": {
+          "tag": "TAG_COMPOUND",
+          "val": {
+            "FireworkColor": {
+              "tag": "TAG_BYTE_ARRAY",
+              "val": [
+                1,
+                0,
+                0,
+                0
+              ]
+            },
+            "FireworkFade": {
+              "tag": "TAG_BYTE_ARRAY",
+              "val": [
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            "FireworkFlicker": {
+              "tag": "TAG_BYTE",
+              "val": 0
+            },
+            "FireworkTrail": {
+              "tag": "TAG_BYTE",
+              "val": 0
+            },
+            "FireworkType": {
+              "tag": "TAG_BYTE",
+              "val": 0
+            }
+          }
+        },
+        "customColor": {
+          "tag": "TAG_INT",
+          "val": -425955
+        }
+      }
+    }
+  }
+}

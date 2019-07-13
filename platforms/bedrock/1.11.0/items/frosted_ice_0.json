@@ -1,0 +1,42 @@
+{
+  "minecraft:frosted_ice:0": {
+    "Block": {
+      "tag": "TAG_COMPOUND",
+      "val": {
+        "name": {
+          "tag": "TAG_STRING",
+          "val": "minecraft:frosted_ice"
+        },
+        "states": {
+          "tag": "TAG_COMPOUND",
+          "val": {
+            "age": {
+              "tag": "TAG_INT",
+              "val": 0
+            }
+          }
+        },
+        "version": {
+          "tag": "TAG_INT",
+          "val": 17432626
+        }
+      }
+    },
+    "Count": {
+      "tag": "TAG_BYTE",
+      "val": 1
+    },
+    "Damage": {
+      "tag": "TAG_SHORT",
+      "val": 0
+    },
+    "Name": {
+      "tag": "TAG_STRING",
+      "val": "minecraft:frosted_ice"
+    },
+    "Slot": {
+      "tag": "TAG_BYTE",
+      "val": 14
+    }
+  }
+}
