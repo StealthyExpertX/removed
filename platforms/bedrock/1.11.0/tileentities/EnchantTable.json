@@ -1,0 +1,28 @@
+{
+  "EnchantTable": {
+    "id": {
+      "tag": "TAG_STRING",
+      "val": "EnchantTable"
+    },
+    "isMovable": {
+      "tag": "TAG_BYTE",
+      "val": 1
+    },
+    "rott": {
+      "tag": "TAG_FLOAT",
+      "val": -1.046896
+    },
+    "x": {
+      "tag": "TAG_INT",
+      "val": -13
+    },
+    "y": {
+      "tag": "TAG_INT",
+      "val": 4
+    },
+    "z": {
+      "tag": "TAG_INT",
+      "val": -26
+    }
+  }
+}

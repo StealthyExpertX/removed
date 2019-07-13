@@ -1,0 +1,28 @@
+{
+  "Bed": {
+    "color": {
+      "tag": "TAG_BYTE",
+      "val": 14
+    },
+    "id": {
+      "tag": "TAG_STRING",
+      "val": "Bed"
+    },
+    "isMovable": {
+      "tag": "TAG_BYTE",
+      "val": 1
+    },
+    "x": {
+      "tag": "TAG_INT",
+      "val": -15
+    },
+    "y": {
+      "tag": "TAG_INT",
+      "val": 4
+    },
+    "z": {
+      "tag": "TAG_INT",
+      "val": -21
+    }
+  }
+}

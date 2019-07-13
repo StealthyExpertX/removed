@@ -1,0 +1,41 @@
+{
+  "BrewingStand": {
+    "CookTime": {
+      "tag": "TAG_SHORT",
+      "val": 0
+    },
+    "FuelAmount": {
+      "tag": "TAG_SHORT",
+      "val": 0
+    },
+    "FuelTotal": {
+      "tag": "TAG_SHORT",
+      "val": 0
+    },
+    "Items": {
+      "tag": "TAG_LIST",
+      "listtag": "TAG_BYTE",
+      "val": []
+    },
+    "id": {
+      "tag": "TAG_STRING",
+      "val": "BrewingStand"
+    },
+    "isMovable": {
+      "tag": "TAG_BYTE",
+      "val": 1
+    },
+    "x": {
+      "tag": "TAG_INT",
+      "val": -13
+    },
+    "y": {
+      "tag": "TAG_INT",
+      "val": 4
+    },
+    "z": {
+      "tag": "TAG_INT",
+      "val": -28
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "ItemFrame": {
+    "CustomName": {
+      "tag": "TAG_STRING",
+      "val": "Stone"
+    },
+    "Item": {
+      "tag": "TAG_COMPOUND",
+      "val": {
+        "Block": {
+          "tag": "TAG_COMPOUND",
+          "val": {
+            "name": {
+              "tag": "TAG_STRING",
+              "val": "minecraft:stone"
+            },
+            "states": {
+              "tag": "TAG_COMPOUND",
+              "val": {
+                "stone_type": {
+                  "tag": "TAG_STRING",
+                  "val": "stone"
+                }
+              }
+            },
+            "version": {
+              "tag": "TAG_INT",
+              "val": 17432626
+            }
+          }
+        },
+        "Count": {
+          "tag": "TAG_BYTE",
+          "val": 1
+        },
+        "Damage": {
+          "tag": "TAG_SHORT",
+          "val": 0
+        },
+        "Name": {
+          "tag": "TAG_STRING",
+          "val": "minecraft:stone"
+        }
+      }
+    },
+    "ItemDropChance": {
+      "tag": "TAG_FLOAT",
+      "val": 1
+    },
+    "ItemRotation": {
+      "tag": "TAG_BYTE",
+      "val": 0
+    },
+    "id": {
+      "tag": "TAG_STRING",
+      "val": "ItemFrame"
+    },
+    "isMovable": {
+      "tag": "TAG_BYTE",
+      "val": 1
+    },
+    "x": {
+      "tag": "TAG_INT",
+      "val": -13
+    },
+    "y": {
+      "tag": "TAG_INT",
+      "val": 4
+    },
+    "z": {
+      "tag": "TAG_INT",
+      "val": -15
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "PistonArm": {
+    "AttachedBlocks": {
+      "tag": "TAG_LIST",
+      "listtag": "TAG_BYTE",
+      "val": []
+    },
+    "BreakBlocks": {
+      "tag": "TAG_LIST",
+      "listtag": "TAG_BYTE",
+      "val": []
+    },
+    "LastProgress": {
+      "tag": "TAG_FLOAT",
+      "val": 0
+    },
+    "NewState": {
+      "tag": "TAG_BYTE",
+      "val": 0
+    },
+    "Progress": {
+      "tag": "TAG_FLOAT",
+      "val": 0
+    },
+    "State": {
+      "tag": "TAG_BYTE",
+      "val": 0
+    },
+    "Sticky": {
+      "tag": "TAG_BYTE",
+      "val": 0
+    },
+    "id": {
+      "tag": "TAG_STRING",
+      "val": "PistonArm"
+    },
+    "isMovable": {
+      "tag": "TAG_BYTE",
+      "val": 1
+    },
+    "x": {
+      "tag": "TAG_INT",
+      "val": 2
+    },
+    "y": {
+      "tag": "TAG_INT",
+      "val": 4
+    },
+    "z": {
+      "tag": "TAG_INT",
+      "val": -22
+    }
+  }
+}

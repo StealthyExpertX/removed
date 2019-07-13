@@ -1,0 +1,32 @@
+{
+  "Conduit": {
+    "Active": {
+      "tag": "TAG_BYTE",
+      "val": 0
+    },
+    "Target": {
+      "tag": "TAG_LONG",
+      "val": -1
+    },
+    "id": {
+      "tag": "TAG_STRING",
+      "val": "Conduit"
+    },
+    "isMovable": {
+      "tag": "TAG_BYTE",
+      "val": 1
+    },
+    "x": {
+      "tag": "TAG_INT",
+      "val": -13
+    },
+    "y": {
+      "tag": "TAG_INT",
+      "val": 4
+    },
+    "z": {
+      "tag": "TAG_INT",
+      "val": -25
+    }
+  }
+}

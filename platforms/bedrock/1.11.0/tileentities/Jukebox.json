@@ -1,0 +1,41 @@
+{
+  "Jukebox": {
+    "RecordItem": {
+      "tag": "TAG_COMPOUND",
+      "val": {
+        "Count": {
+          "tag": "TAG_BYTE",
+          "val": 1
+        },
+        "Damage": {
+          "tag": "TAG_SHORT",
+          "val": 0
+        },
+        "Name": {
+          "tag": "TAG_STRING",
+          "val": "minecraft:record_13"
+        }
+      }
+    },
+    "id": {
+      "tag": "TAG_STRING",
+      "val": "Jukebox"
+    },
+    "isMovable": {
+      "tag": "TAG_BYTE",
+      "val": 1
+    },
+    "x": {
+      "tag": "TAG_INT",
+      "val": -13
+    },
+    "y": {
+      "tag": "TAG_INT",
+      "val": 4
+    },
+    "z": {
+      "tag": "TAG_INT",
+      "val": -18
+    }
+  }
+}

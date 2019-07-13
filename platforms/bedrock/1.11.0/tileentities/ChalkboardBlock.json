@@ -1,0 +1,36 @@
+{
+  "ChalkboardBlock": {
+    "BaseX": {
+      "tag": "TAG_INT",
+      "val": 199
+    },
+    "BaseY": {
+      "tag": "TAG_INT",
+      "val": 65
+    },
+    "BaseZ": {
+      "tag": "TAG_INT",
+      "val": 7
+    },
+    "id": {
+      "tag": "TAG_STRING",
+      "val": "ChalkboardBlock"
+    },
+    "isMovable": {
+      "tag": "TAG_BYTE",
+      "val": 1
+    },
+    "x": {
+      "tag": "TAG_INT",
+      "val": 199
+    },
+    "y": {
+      "tag": "TAG_INT",
+      "val": 65
+    },
+    "z": {
+      "tag": "TAG_INT",
+      "val": 6
+    }
+  }
+}

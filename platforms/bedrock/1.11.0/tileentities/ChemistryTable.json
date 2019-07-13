@@ -1,0 +1,24 @@
+{
+  "ChemistryTable": {
+    "id": {
+      "tag": "TAG_STRING",
+      "val": "ChemistryTable"
+    },
+    "isMovable": {
+      "tag": "TAG_BYTE",
+      "val": 1
+    },
+    "x": {
+      "tag": "TAG_INT",
+      "val": -74
+    },
+    "y": {
+      "tag": "TAG_INT",
+      "val": 4
+    },
+    "z": {
+      "tag": "TAG_INT",
+      "val": -37
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "Furnace": {
+    "BurnDuration": {
+      "tag": "TAG_SHORT",
+      "val": 0
+    },
+    "BurnTime": {
+      "tag": "TAG_SHORT",
+      "val": 0
+    },
+    "CookTime": {
+      "tag": "TAG_SHORT",
+      "val": 0
+    },
+    "Items": {
+      "tag": "TAG_LIST",
+      "listtag": "TAG_BYTE",
+      "val": []
+    },
+    "StoredXP": {
+      "tag": "TAG_SHORT",
+      "val": 0
+    },
+    "id": {
+      "tag": "TAG_STRING",
+      "val": "Furnace"
+    },
+    "isMovable": {
+      "tag": "TAG_BYTE",
+      "val": 1
+    },
+    "x": {
+      "tag": "TAG_INT",
+      "val": -15
+    },
+    "y": {
+      "tag": "TAG_INT",
+      "val": 4
+    },
+    "z": {
+      "tag": "TAG_INT",
+      "val": -24
+    }
+  }
+}

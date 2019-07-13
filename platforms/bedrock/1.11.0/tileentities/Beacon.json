@@ -1,0 +1,32 @@
+{
+  "Beacon": {
+    "id": {
+      "tag": "TAG_STRING",
+      "val": "Beacon"
+    },
+    "isMovable": {
+      "tag": "TAG_BYTE",
+      "val": 1
+    },
+    "primary": {
+      "tag": "TAG_INT",
+      "val": 0
+    },
+    "secondary": {
+      "tag": "TAG_INT",
+      "val": 0
+    },
+    "x": {
+      "tag": "TAG_INT",
+      "val": -17
+    },
+    "y": {
+      "tag": "TAG_INT",
+      "val": 4
+    },
+    "z": {
+      "tag": "TAG_INT",
+      "val": 1
+    }
+  }
+}

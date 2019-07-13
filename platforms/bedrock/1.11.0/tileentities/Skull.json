@@ -1,0 +1,40 @@
+{
+  "Skull": {
+    "MouthMoving": {
+      "tag": "TAG_BYTE",
+      "val": 0
+    },
+    "MouthTickCount": {
+      "tag": "TAG_INT",
+      "val": 0
+    },
+    "Rotation": {
+      "tag": "TAG_FLOAT",
+      "val": -90
+    },
+    "SkullType": {
+      "tag": "TAG_BYTE",
+      "val": 0
+    },
+    "id": {
+      "tag": "TAG_STRING",
+      "val": "Skull"
+    },
+    "isMovable": {
+      "tag": "TAG_BYTE",
+      "val": 1
+    },
+    "x": {
+      "tag": "TAG_INT",
+      "val": -13
+    },
+    "y": {
+      "tag": "TAG_INT",
+      "val": 4
+    },
+    "z": {
+      "tag": "TAG_INT",
+      "val": -21
+    }
+  }
+}

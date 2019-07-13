@@ -1,0 +1,81 @@
+{
+  "CommandBlock": {
+    "Command": {
+      "tag": "TAG_STRING",
+      "val": ""
+    },
+    "CustomName": {
+      "tag": "TAG_STRING",
+      "val": ""
+    },
+    "LPCommandMode": {
+      "tag": "TAG_INT",
+      "val": 2
+    },
+    "LPCondionalMode": {
+      "tag": "TAG_BYTE",
+      "val": 1
+    },
+    "LPRedstoneMode": {
+      "tag": "TAG_BYTE",
+      "val": 1
+    },
+    "LastExecution": {
+      "tag": "TAG_LONG",
+      "val": 0
+    },
+    "LastOutput": {
+      "tag": "TAG_STRING",
+      "val": ""
+    },
+    "LastOutputParams": {
+      "tag": "TAG_LIST",
+      "listtag": "TAG_BYTE",
+      "val": []
+    },
+    "SuccessCount": {
+      "tag": "TAG_INT",
+      "val": 0
+    },
+    "TrackOutput": {
+      "tag": "TAG_BYTE",
+      "val": 1
+    },
+    "Version": {
+      "tag": "TAG_INT",
+      "val": 9
+    },
+    "auto": {
+      "tag": "TAG_BYTE",
+      "val": 0
+    },
+    "conditionMet": {
+      "tag": "TAG_BYTE",
+      "val": 0
+    },
+    "id": {
+      "tag": "TAG_STRING",
+      "val": "CommandBlock"
+    },
+    "isMovable": {
+      "tag": "TAG_BYTE",
+      "val": 1
+    },
+    "powered": {
+      "tag": "TAG_BYTE",
+      "val": 0
+    },
+    "x": {
+      "tag": "TAG_INT",
+      "val": -17
+    },
+    "y": {
+      "tag": "TAG_INT",
+      "val": 4
+    },
+    "z": {
+      "tag": "TAG_INT",
+      "val": -5
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "FlowerPot": {
+    "PlantBlock": {
+      "tag": "TAG_COMPOUND",
+      "val": {
+        "name": {
+          "tag": "TAG_STRING",
+          "val": "minecraft:red_flower"
+        },
+        "val": {
+          "tag": "TAG_SHORT",
+          "val": 0
+        }
+      }
+    },
+    "id": {
+      "tag": "TAG_STRING",
+      "val": "FlowerPot"
+    },
+    "isMovable": {
+      "tag": "TAG_BYTE",
+      "val": 1
+    },
+    "x": {
+      "tag": "TAG_INT",
+      "val": -13
+    },
+    "y": {
+      "tag": "TAG_INT",
+      "val": 4
+    },
+    "z": {
+      "tag": "TAG_INT",
+      "val": -17
+    }
+  }
+}

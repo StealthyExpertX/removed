@@ -1,0 +1,36 @@
+{
+  "Bell": {
+    "Direction": {
+      "tag": "TAG_INT",
+      "val": 255
+    },
+    "Ringing": {
+      "tag": "TAG_BYTE",
+      "val": 0
+    },
+    "Ticks": {
+      "tag": "TAG_INT",
+      "val": 48
+    },
+    "id": {
+      "tag": "TAG_STRING",
+      "val": "Bell"
+    },
+    "isMovable": {
+      "tag": "TAG_BYTE",
+      "val": 1
+    },
+    "x": {
+      "tag": "TAG_INT",
+      "val": -13
+    },
+    "y": {
+      "tag": "TAG_INT",
+      "val": 4
+    },
+    "z": {
+      "tag": "TAG_INT",
+      "val": -23
+    }
+  }
+}

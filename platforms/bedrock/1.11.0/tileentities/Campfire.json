@@ -1,0 +1,108 @@
+{
+  "Campfire": {
+    "Item1": {
+      "tag": "TAG_COMPOUND",
+      "val": {
+        "Count": {
+          "tag": "TAG_BYTE",
+          "val": 1
+        },
+        "Damage": {
+          "tag": "TAG_SHORT",
+          "val": 0
+        },
+        "Name": {
+          "tag": "TAG_STRING",
+          "val": "minecraft:beef"
+        }
+      }
+    },
+    "Item2": {
+      "tag": "TAG_COMPOUND",
+      "val": {
+        "Count": {
+          "tag": "TAG_BYTE",
+          "val": 1
+        },
+        "Damage": {
+          "tag": "TAG_SHORT",
+          "val": 0
+        },
+        "Name": {
+          "tag": "TAG_STRING",
+          "val": "minecraft:beef"
+        }
+      }
+    },
+    "Item3": {
+      "tag": "TAG_COMPOUND",
+      "val": {
+        "Count": {
+          "tag": "TAG_BYTE",
+          "val": 1
+        },
+        "Damage": {
+          "tag": "TAG_SHORT",
+          "val": 0
+        },
+        "Name": {
+          "tag": "TAG_STRING",
+          "val": "minecraft:beef"
+        }
+      }
+    },
+    "Item4": {
+      "tag": "TAG_COMPOUND",
+      "val": {
+        "Count": {
+          "tag": "TAG_BYTE",
+          "val": 1
+        },
+        "Damage": {
+          "tag": "TAG_SHORT",
+          "val": 0
+        },
+        "Name": {
+          "tag": "TAG_STRING",
+          "val": "minecraft:beef"
+        }
+      }
+    },
+    "ItemTime1": {
+      "tag": "TAG_INT",
+      "val": 171
+    },
+    "ItemTime2": {
+      "tag": "TAG_INT",
+      "val": 146
+    },
+    "ItemTime3": {
+      "tag": "TAG_INT",
+      "val": 114
+    },
+    "ItemTime4": {
+      "tag": "TAG_INT",
+      "val": 89
+    },
+    "id": {
+      "tag": "TAG_STRING",
+      "val": "Campfire"
+    },
+    "isMovable": {
+      "tag": "TAG_BYTE",
+      "val": 1
+    },
+    "x": {
+      "tag": "TAG_INT",
+      "val": -15
+    },
+    "y": {
+      "tag": "TAG_INT",
+      "val": 4
+    },
+    "z": {
+      "tag": "TAG_INT",
+      "val": -23
+    }
+  }
+}

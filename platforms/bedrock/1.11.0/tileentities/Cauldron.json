@@ -1,0 +1,37 @@
+{
+  "Cauldron": {
+    "Items": {
+      "tag": "TAG_LIST",
+      "listtag": "TAG_BYTE",
+      "val": []
+    },
+    "PotionId": {
+      "tag": "TAG_SHORT",
+      "val": -1
+    },
+    "PotionType": {
+      "tag": "TAG_SHORT",
+      "val": 0
+    },
+    "id": {
+      "tag": "TAG_STRING",
+      "val": "Cauldron"
+    },
+    "isMovable": {
+      "tag": "TAG_BYTE",
+      "val": 1
+    },
+    "x": {
+      "tag": "TAG_INT",
+      "val": -16
+    },
+    "y": {
+      "tag": "TAG_INT",
+      "val": 4
+    },
+    "z": {
+      "tag": "TAG_INT",
+      "val": -2
+    }
+  }
+}

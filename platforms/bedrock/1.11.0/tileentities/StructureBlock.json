@@ -1,0 +1,96 @@
+{
+  "StructureBlock": {
+    "data": {
+      "tag": "TAG_INT",
+      "val": 5
+    },
+    "id": {
+      "tag": "TAG_STRING",
+      "val": "StructureBlock"
+    },
+    "ignoreEntities": {
+      "tag": "TAG_BYTE",
+      "val": 1
+    },
+    "includePlayers": {
+      "tag": "TAG_BYTE",
+      "val": 0
+    },
+    "isMovable": {
+      "tag": "TAG_BYTE",
+      "val": 1
+    },
+    "isPowered": {
+      "tag": "TAG_BYTE",
+      "val": 0
+    },
+    "metadata": {
+      "tag": "TAG_STRING",
+      "val": ""
+    },
+    "settingsIntegrity": {
+      "tag": "TAG_FLOAT",
+      "val": 1
+    },
+    "settingsMirror": {
+      "tag": "TAG_INT",
+      "val": 0
+    },
+    "settingsRotation": {
+      "tag": "TAG_INT",
+      "val": 0
+    },
+    "settingsSeed": {
+      "tag": "TAG_INT",
+      "val": 0
+    },
+    "showAir": {
+      "tag": "TAG_BYTE",
+      "val": 0
+    },
+    "showBoundingBox": {
+      "tag": "TAG_BYTE",
+      "val": 0
+    },
+    "structureName": {
+      "tag": "TAG_STRING",
+      "val": ""
+    },
+    "x": {
+      "tag": "TAG_INT",
+      "val": -18
+    },
+    "xStructureOffset": {
+      "tag": "TAG_INT",
+      "val": 0
+    },
+    "xStructureSize": {
+      "tag": "TAG_INT",
+      "val": 0
+    },
+    "y": {
+      "tag": "TAG_INT",
+      "val": 4
+    },
+    "yStructureOffset": {
+      "tag": "TAG_INT",
+      "val": 1
+    },
+    "yStructureSize": {
+      "tag": "TAG_INT",
+      "val": 0
+    },
+    "z": {
+      "tag": "TAG_INT",
+      "val": 0
+    },
+    "zStructureOffset": {
+      "tag": "TAG_INT",
+      "val": 0
+    },
+    "zStructureSize": {
+      "tag": "TAG_INT",
+      "val": 0
+    }
+  }
+}

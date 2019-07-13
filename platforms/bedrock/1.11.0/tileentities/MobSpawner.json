@@ -1,0 +1,68 @@
+{
+  "MobSpawner": {
+    "Delay": {
+      "tag": "TAG_SHORT",
+      "val": 20
+    },
+    "DisplayEntityHeight": {
+      "tag": "TAG_FLOAT",
+      "val": 1.8
+    },
+    "DisplayEntityScale": {
+      "tag": "TAG_FLOAT",
+      "val": 1
+    },
+    "DisplayEntityWidth": {
+      "tag": "TAG_FLOAT",
+      "val": 0.8
+    },
+    "EntityIdentifier": {
+      "tag": "TAG_STRING",
+      "val": ":"
+    },
+    "MaxNearbyEntities": {
+      "tag": "TAG_SHORT",
+      "val": 6
+    },
+    "MaxSpawnDelay": {
+      "tag": "TAG_SHORT",
+      "val": 800
+    },
+    "MinSpawnDelay": {
+      "tag": "TAG_SHORT",
+      "val": 200
+    },
+    "RequiredPlayerRange": {
+      "tag": "TAG_SHORT",
+      "val": 16
+    },
+    "SpawnCount": {
+      "tag": "TAG_SHORT",
+      "val": 4
+    },
+    "SpawnRange": {
+      "tag": "TAG_SHORT",
+      "val": 4
+    },
+    "id": {
+      "tag": "TAG_STRING",
+      "val": "MobSpawner"
+    },
+    "isMovable": {
+      "tag": "TAG_BYTE",
+      "val": 1
+    },
+    "x": {
+      "tag": "TAG_INT",
+      "val": -15
+    },
+    "y": {
+      "tag": "TAG_INT",
+      "val": 4
+    },
+    "z": {
+      "tag": "TAG_INT",
+      "val": -20
+    }
+  }
+}
