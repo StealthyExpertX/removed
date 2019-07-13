@@ -1,0 +1,281 @@
+{
+  "minecraft:area_effect_cloud": {
+    "Chested": {
+      "tag": "TAG_BYTE",
+      "val": 0
+    },
+    "Color": {
+      "tag": "TAG_BYTE",
+      "val": 0
+    },
+    "Color2": {
+      "tag": "TAG_BYTE",
+      "val": 0
+    },
+    "Duration": {
+      "tag": "TAG_INT",
+      "val": 600
+    },
+    "DurationOnUse": {
+      "tag": "TAG_INT",
+      "val": 0
+    },
+    "FallDistance": {
+      "tag": "TAG_FLOAT",
+      "val": 0
+    },
+    "Fire": {
+      "tag": "TAG_SHORT",
+      "val": 0
+    },
+    "Invulnerable": {
+      "tag": "TAG_BYTE",
+      "val": 0
+    },
+    "IsAngry": {
+      "tag": "TAG_BYTE",
+      "val": 0
+    },
+    "IsAutonomous": {
+      "tag": "TAG_BYTE",
+      "val": 0
+    },
+    "IsBaby": {
+      "tag": "TAG_BYTE",
+      "val": 0
+    },
+    "IsEating": {
+      "tag": "TAG_BYTE",
+      "val": 0
+    },
+    "IsGliding": {
+      "tag": "TAG_BYTE",
+      "val": 0
+    },
+    "IsGlobal": {
+      "tag": "TAG_BYTE",
+      "val": 0
+    },
+    "IsIllagerCaptain": {
+      "tag": "TAG_BYTE",
+      "val": 0
+    },
+    "IsOrphaned": {
+      "tag": "TAG_BYTE",
+      "val": 0
+    },
+    "IsRoaring": {
+      "tag": "TAG_BYTE",
+      "val": 0
+    },
+    "IsScared": {
+      "tag": "TAG_BYTE",
+      "val": 0
+    },
+    "IsStunned": {
+      "tag": "TAG_BYTE",
+      "val": 0
+    },
+    "IsSwimming": {
+      "tag": "TAG_BYTE",
+      "val": 0
+    },
+    "IsTamed": {
+      "tag": "TAG_BYTE",
+      "val": 0
+    },
+    "IsTransitioningSitting": {
+      "tag": "TAG_BYTE",
+      "val": 0
+    },
+    "IsTrusting": {
+      "tag": "TAG_BYTE",
+      "val": 0
+    },
+    "LastDimensionId": {
+      "tag": "TAG_INT",
+      "val": 0
+    },
+    "LootDropped": {
+      "tag": "TAG_BYTE",
+      "val": 0
+    },
+    "MarkVariant": {
+      "tag": "TAG_INT",
+      "val": 0
+    },
+    "Motion": {
+      "tag": "TAG_LIST",
+      "listtag": "TAG_FLOAT",
+      "val": [
+        0,
+        0,
+        0
+      ]
+    },
+    "OnGround": {
+      "tag": "TAG_BYTE",
+      "val": 1
+    },
+    "OwnerId": {
+      "tag": "TAG_LONG",
+      "val": -4294967295
+    },
+    "OwnerNew": {
+      "tag": "TAG_LONG",
+      "val": -1
+    },
+    "ParticleColor": {
+      "tag": "TAG_INT",
+      "val": 0
+    },
+    "ParticleId": {
+      "tag": "TAG_INT",
+      "val": 27
+    },
+    "PickupCount": {
+      "tag": "TAG_INT",
+      "val": 0
+    },
+    "PortalCooldown": {
+      "tag": "TAG_INT",
+      "val": 0
+    },
+    "Pos": {
+      "tag": "TAG_LIST",
+      "listtag": "TAG_FLOAT",
+      "val": [
+        -18.5,
+        4.5,
+        -0.5
+      ]
+    },
+    "PotionId": {
+      "tag": "TAG_SHORT",
+      "val": 0
+    },
+    "Radius": {
+      "tag": "TAG_FLOAT",
+      "val": 0.9
+    },
+    "RadiusChangeOnPickup": {
+      "tag": "TAG_FLOAT",
+      "val": -0.5
+    },
+    "RadiusOnUse": {
+      "tag": "TAG_FLOAT",
+      "val": -0.5
+    },
+    "RadiusPerTick": {
+      "tag": "TAG_FLOAT",
+      "val": -0.005
+    },
+    "ReapplicationDelay": {
+      "tag": "TAG_INT",
+      "val": 0
+    },
+    "Rotation": {
+      "tag": "TAG_LIST",
+      "listtag": "TAG_FLOAT",
+      "val": [
+        85.9845,
+        0
+      ]
+    },
+    "Saddled": {
+      "tag": "TAG_BYTE",
+      "val": 0
+    },
+    "Sheared": {
+      "tag": "TAG_BYTE",
+      "val": 0
+    },
+    "ShowBottom": {
+      "tag": "TAG_BYTE",
+      "val": 0
+    },
+    "Sitting": {
+      "tag": "TAG_BYTE",
+      "val": 0
+    },
+    "SkinID": {
+      "tag": "TAG_INT",
+      "val": 0
+    },
+    "SpawnTime": {
+      "tag": "TAG_INT",
+      "val": 13000
+    },
+    "Strength": {
+      "tag": "TAG_INT",
+      "val": 0
+    },
+    "StrengthMax": {
+      "tag": "TAG_INT",
+      "val": 0
+    },
+    "UniqueID": {
+      "tag": "TAG_LONG",
+      "val": -73014444030
+    },
+    "Variant": {
+      "tag": "TAG_INT",
+      "val": 0
+    },
+    "definitions": {
+      "tag": "TAG_LIST",
+      "listtag": "TAG_STRING",
+      "val": [
+        "+minecraft:area_effect_cloud"
+      ]
+    },
+    "identifier": {
+      "tag": "TAG_STRING",
+      "val": "minecraft:area_effect_cloud"
+    },
+    "mobEffects": {
+      "tag": "TAG_LIST",
+      "listtag": "TAG_COMPOUND",
+      "val": [
+        {
+          "Ambient": {
+            "tag": "TAG_BYTE",
+            "val": 0
+          },
+          "Amplifier": {
+            "tag": "TAG_BYTE",
+            "val": 0
+          },
+          "DisplayOnScreenTextureAnimation": {
+            "tag": "TAG_BYTE",
+            "val": 0
+          },
+          "Duration": {
+            "tag": "TAG_INT",
+            "val": 0
+          },
+          "DurationEasy": {
+            "tag": "TAG_INT",
+            "val": 0
+          },
+          "DurationHard": {
+            "tag": "TAG_INT",
+            "val": 0
+          },
+          "DurationNormal": {
+            "tag": "TAG_INT",
+            "val": 0
+          },
+          "Id": {
+            "tag": "TAG_BYTE",
+            "val": 0
+          },
+          "ShowParticles": {
+            "tag": "TAG_BYTE",
+            "val": 1
+          }
+        }
+      ]
+    }
+  }
+}

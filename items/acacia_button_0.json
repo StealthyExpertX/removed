@@ -1,0 +1,46 @@
+{
+  "minecraft:acacia_button:0": {
+    "Block": {
+      "tag": "TAG_COMPOUND",
+      "val": {
+        "name": {
+          "tag": "TAG_STRING",
+          "val": "minecraft:acacia_button"
+        },
+        "states": {
+          "tag": "TAG_COMPOUND",
+          "val": {
+            "button_pressed_bit": {
+              "tag": "TAG_BYTE",
+              "val": 0
+            },
+            "facing_direction": {
+              "tag": "TAG_INT",
+              "val": 5
+            }
+          }
+        },
+        "version": {
+          "tag": "TAG_INT",
+          "val": 17432626
+        }
+      }
+    },
+    "Count": {
+      "tag": "TAG_BYTE",
+      "val": 1
+    },
+    "Damage": {
+      "tag": "TAG_SHORT",
+      "val": 0
+    },
+    "Name": {
+      "tag": "TAG_STRING",
+      "val": "minecraft:acacia_button"
+    },
+    "Slot": {
+      "tag": "TAG_BYTE",
+      "val": 25
+    }
+  }
+}
