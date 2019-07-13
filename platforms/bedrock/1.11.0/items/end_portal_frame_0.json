@@ -1,0 +1,46 @@
+{
+  "minecraft:end_portal_frame:0": {
+    "Block": {
+      "tag": "TAG_COMPOUND",
+      "val": {
+        "name": {
+          "tag": "TAG_STRING",
+          "val": "minecraft:end_portal_frame"
+        },
+        "states": {
+          "tag": "TAG_COMPOUND",
+          "val": {
+            "direction": {
+              "tag": "TAG_INT",
+              "val": 0
+            },
+            "end_portal_eye_bit": {
+              "tag": "TAG_BYTE",
+              "val": 0
+            }
+          }
+        },
+        "version": {
+          "tag": "TAG_INT",
+          "val": 17432626
+        }
+      }
+    },
+    "Count": {
+      "tag": "TAG_BYTE",
+      "val": 1
+    },
+    "Damage": {
+      "tag": "TAG_SHORT",
+      "val": 0
+    },
+    "Name": {
+      "tag": "TAG_STRING",
+      "val": "minecraft:end_portal_frame"
+    },
+    "Slot": {
+      "tag": "TAG_BYTE",
+      "val": 18
+    }
+  }
+}

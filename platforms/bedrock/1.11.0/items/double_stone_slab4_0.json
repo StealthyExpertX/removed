@@ -1,0 +1,46 @@
+{
+  "minecraft:double_stone_slab4:0": {
+    "Block": {
+      "tag": "TAG_COMPOUND",
+      "val": {
+        "name": {
+          "tag": "TAG_STRING",
+          "val": "minecraft:stone_slab4"
+        },
+        "states": {
+          "tag": "TAG_COMPOUND",
+          "val": {
+            "stone_slab_type_4": {
+              "tag": "TAG_STRING",
+              "val": "smooth_quartz"
+            },
+            "top_slot_bit": {
+              "tag": "TAG_BYTE",
+              "val": 0
+            }
+          }
+        },
+        "version": {
+          "tag": "TAG_INT",
+          "val": 17432626
+        }
+      }
+    },
+    "Count": {
+      "tag": "TAG_BYTE",
+      "val": 1
+    },
+    "Damage": {
+      "tag": "TAG_SHORT",
+      "val": 0
+    },
+    "Name": {
+      "tag": "TAG_STRING",
+      "val": "minecraft:double_stone_slab4"
+    },
+    "Slot": {
+      "tag": "TAG_BYTE",
+      "val": 9
+    }
+  }
+}
