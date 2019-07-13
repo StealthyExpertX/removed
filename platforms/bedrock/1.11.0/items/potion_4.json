@@ -1,0 +1,20 @@
+{
+  "minecraft:potion:4": {
+    "Count": {
+      "tag": "TAG_BYTE",
+      "val": 1
+    },
+    "Damage": {
+      "tag": "TAG_SHORT",
+      "val": 4
+    },
+    "Name": {
+      "tag": "TAG_STRING",
+      "val": "minecraft:potion"
+    },
+    "Slot": {
+      "tag": "TAG_BYTE",
+      "val": 22
+    }
+  }
+}
